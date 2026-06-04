@@ -7,7 +7,7 @@
   <url>https://github.com/MinhQuangBravo/QTools-Releases/releases/download/v2.1.0/QTools.exe</url>
   
   <!-- Đường dẫn trang nhật ký thay đổi để hiển thị lên cửa sổ cập nhật -->
-  <changelog>https://raw.githubusercontent.com/MinhQuangBravo/QTools_2_WPF/main/CHANGELOG.md</changelog>
+  <changelog>https://github.com/MinhQuangBravo/QTools-Releases/blob/02aa3067a7b7d8262299f122ba41ac3b7ab9e7f8/CHANGELOG.md</changelog>
   
   <!-- Đặt là true nếu bản cập nhật này là bắt buộc (người dùng không thể bỏ qua hoặc chọn nhắc lại sau) -->
   <mandatory>false</mandatory>
