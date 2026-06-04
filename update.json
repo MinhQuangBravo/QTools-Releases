@@ -1,0 +1,5 @@
+{
+  "Version": "2.3.1",
+  "Url": "https://github.com/MinhQuangBravo/QTools-Releases/releases/latest/download/QTools.exe",
+  "Changelog": "# Phiên bản v2.3.0\n\n- Tích hợp tính năng **Auto Update** tự viết gọn nhẹ.\n- Hỗ trợ hiển thị thông báo cập nhật tinh tế ở thanh bên.\n- Tự động đồng bộ giao diện Sáng/Tối cho thông báo và hộp thoại cập nhật.\n- Fix các lỗi kết nối cơ sở dữ liệu."
+}
