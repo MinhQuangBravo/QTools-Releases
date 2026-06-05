@@ -1,6 +1,6 @@
 {
-  "Version": "2.3.1",
-  "sha256": "1f49ae0be14ae31efd386f44b8a32867da3ca470d9bd703e8021ada9cab8195a",
-  "Changelog": "# v2.3.0 | 2026-06-05\n\n- Tích hợp tính năng tự động cập nhật phiên bản phần mềm (Auto update).",
+  "Version": "2.3.2",
+  "sha256": "9c61f2b7bf5f1d1c5f1ddb98ea83c4ddb2e7002c85735ede7c570504b408d68d",
+  "Changelog": "# v2.3.2 | 2026-06-06\n\n## Added\n\n- **Auto update**: Thêm verify SHA256.\n\n## Changed\n\n- Tinh chỉnh giao diện.",
   "Url": "https://github.com/MinhQuangBravo/QTools-Releases/releases/latest/download/QTools.exe"
 }
