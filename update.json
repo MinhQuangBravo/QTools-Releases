@@ -1,6 +1,6 @@
 {
-  "Version": "2.3.2",
-  "sha256": "9c61f2b7bf5f1d1c5f1ddb98ea83c4ddb2e7002c85735ede7c570504b408d68d",
-  "Changelog": "# v2.3.2 | 2026-06-06\n\n## Added\n\n- **Auto update**: Thêm verify SHA256.\n\n## Changed\n\n- Tinh chỉnh giao diện.",
+  "Version": "2.3.3",
+  "sha256": "591decf555f85331fa6c97c8ce45f69cc2a014497198af8eee205c3d8076d1f1",
+  "Changelog": "# v2.3.3 | 2026-07-14\n\n## Fixed\n\n- **Script SQL Server - Update_Function_View_Store:** Fix lỗi không có ufn_sys_DataDbName ở các phiên bản (B8, B10PGE) không tách Database.",
   "Url": "https://github.com/MinhQuangBravo/QTools-Releases/releases/latest/download/QTools.exe"
 }
